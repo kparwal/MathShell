@@ -24,14 +24,6 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.keshav.firstapp.MainActivity" />
         </activity>
-        <activity
-            android:name=".AdderActivity"
-            android:label="@string/title_activity_adder"
-            android:parentActivityName=".MainActivity" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.keshav.firstapp.MainActivity" />
-        </activity>
     </application>
 
 </manifest>
